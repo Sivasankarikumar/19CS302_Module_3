@@ -10,7 +10,7 @@ To write a C program that reads a one-dimensional array of integers and replaces
 4. Read the value using scanf.
 5. Initialize array elements.
 6. Replace all even elements to E
-7. End.
+7. End. 
 ## Program:
 ```c program
 #include <stdio.h>
