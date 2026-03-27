@@ -9,7 +9,7 @@ To write a C program to delete first element in an array.
 3. Read the value using scanf.
 4. Ask the user to make an input
 5. Print out the answer
-6. End. 
+6. End.
 
 ## Program:
 ```c program
