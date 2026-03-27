@@ -4,7 +4,7 @@
 To write a C program to check whether the given number is prime or not using function without return type and with arguments.
 
 ## Algorithm:
-1. Start.
+1. Start. 
 2. Declare the variable i.
 3. Read the value given using scanf.
 4. Check whether the given number is prime or not using if-else statement condition.
