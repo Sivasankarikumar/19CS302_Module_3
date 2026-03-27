@@ -5,7 +5,7 @@ To write a C program to read the elements and print only the odd elements in the
 
 ## Algorithm:
 1. Start.
-2. Define a variables i,j,n,a.
+2. Define a variables i,j,n,a. 
 3. Write program to find n x n matrix.
 4. Read the value using scanf.
 5. Ask the user to make an input
