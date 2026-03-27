@@ -12,7 +12,7 @@ To write a C program to delete first element in an array.
 6. End.
 
 ## Program:
-```c program
+```c program 
 #include<stdio.h> 
 int main()
 {
