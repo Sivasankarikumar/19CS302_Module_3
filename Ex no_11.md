@@ -12,7 +12,7 @@ To write a C Program to convert a given decimal value to binary using function w
 6. Convert decimal to binary value.
 7. Print the dectobin
 8. End. 
-
+ 
 ## Program:
 ```c program
 #include<stdio.h>
